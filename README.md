@@ -3,16 +3,15 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/HibernationIT/HibernationIT" target="_blank">
-<img src="https://img.shields.io/badge/Hibernation%20IT-120024?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:hbnation.it@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/hbnation.it%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://hibernationit.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/github%20page-222222?style=for-the-badge&logo=githubpages&logoColor=white
-"/>
-</a>
+    <a href="https://github.com/HibernationIT/HibernationIT" target="_blank">
+        <img src="https://img.shields.io/badge/Hibernation%20IT-120024?style=for-the-badge&logo=github"/>
+    </a>
+    <a href="mailto:hbnation.it@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/hbnation.it%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://hibernationit.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/github%20page-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    </a>
 </div>
 
 <br>
